@@ -13,9 +13,10 @@
 > ![Express Validator](https://img.shields.io/badge/Express%20Validator-Learning-8250df)
 > ![Vite](https://img.shields.io/badge/Vite-Learning-8250df?logo=Vite)
 >
-> Databases & DB Tools I Use
+> Databases, ORM & DB Tools I Use
 > 
 > [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+> ![Sequelize](https://img.shields.io/badge/Sequelize-Learning-4FC3F7?logo=Sequelize)
 > ![MongoDB](https://img.shields.io/badge/MongoDB-Learning-1a7f37?logo=MongoDB)
 > ![XAMPP](https://img.shields.io/badge/XAMPP-%23C98A50?logo=XAMPP)
 > ![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-%23E0E0E0?logo=PhpMyAdmin&logoColor=555555)
@@ -38,14 +39,10 @@
 >
 > [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 > 
-> ORM
->
-> ![Sequelize](https://img.shields.io/badge/Sequelize-Learning-4FC3F7?logo=Sequelize)
->
-> > Documentation
+> Documentation
 > 
 > [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
->
+> 
 > Data Science
 > 
 > ![Python](https://img.shields.io/badge/Python-Learning-%23FFD43B?logo=Python)
