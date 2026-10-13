@@ -11,6 +11,7 @@
 > ![React](https://img.shields.io/badge/React-Learning-0969da?logo=React)
 > ![React Router](https://img.shields.io/badge/React%20Router-Learning-cf222e?logo=React+Router)
 > ![Express Validator](https://img.shields.io/badge/Express%20Validator-Learning-8250df)
+> ![Vite](https://img.shields.io/badge/Vite-Learning-8250df?logo=Vite)
 >
 > Databases & DB Tools I Use
 > 
@@ -27,10 +28,6 @@
 >
 > [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
 >[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#)
->
-> Documentation
-> 
-> [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 > 
 > Package Managers
 >
@@ -45,12 +42,12 @@
 >
 > ![Sequelize](https://img.shields.io/badge/Sequelize-Learning-4FC3F7?logo=Sequelize)
 >
+> > Documentation
+> 
+> [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+>
 > Data Science
 > 
 > ![Python](https://img.shields.io/badge/Python-Learning-%23FFD43B?logo=Python)
 > ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Learning-d29922?logo=Jupyter)
 > ![Pandas](https://img.shields.io/badge/Pandas-Learning-0969da?logo=Pandas)
->
-> Bundlers
->
-> ![Vite](https://img.shields.io/badge/Vite-Learning-8250df?logo=Vite)
